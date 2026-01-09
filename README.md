@@ -8,7 +8,7 @@ This project implements an **LLM-assisted qualitative data annotation pipeline**
 
 The goal of this project is to:
 
-* Collect Reddit posts from the McGill and Concordia subreddits
+* Collect Reddit posts from the McGill and Concordia subreddits through new.json API 
 * Perform **open coding** to identify recurring themes
 * Develop a **typology (codebook)** for consistent annotation
 * Apply the typology to annotate the datasets
