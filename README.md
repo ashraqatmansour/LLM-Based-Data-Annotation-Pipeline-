@@ -53,6 +53,8 @@ The datasets were preprocessed and stored as TSV/CSV files prior to annotation.
 * A unified annotated dataset combining both subreddits
 * Visualizations comparing topic distributions between r/mcgill and r/concordia
 
+<img width="681" height="335" alt="Screenshot 2026-01-12 at 12 33 14 PM" src="https://github.com/user-attachments/assets/93e6103b-2f65-4fb6-8b7f-91584aa88ee8" />
+
 ---
 
 ## Technologies Used
