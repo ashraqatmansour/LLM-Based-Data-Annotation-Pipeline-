@@ -1,0 +1,9 @@
+{
+  "first_pass_accuracy": 0.15,
+  "post_reflection_accuracy": 0.15,
+  "reflection_revision_rate": 0.0,
+  "times_reflection_helped": 0,
+  "times_reflection_hurt": 0,
+  "avg_tool_calls_per_post": 0.05,
+  "flagged_for_human_review": 0
+}
